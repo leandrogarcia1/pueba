@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:'Inter Tight', sans-serif;
+    color: black;
+    text-align: center;
+
+}
+
+header{
+    border-bottom: solid 0.5rem;
+    position: sticky;
+    background-color: white;
+    top: 0;
+    
+   
+}
+
+.nav-list{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+    margin: 1rem;
+    list-style: none;
+    
+
+   }
+
+.logo{
+    width: 5rem;
+    
+    justify-items: center;
+}
+
+.display{
+    text-transform: capitalize;
+    font-size: 4rem;
+    font-weight: 700;
+    margin-bottom: 3rem;
+    
+   
+    padding: 5rem;
+}
+
+.foto1{
+    width: 100rem;
+}
+.text{
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    margin: 2.5rem;
+    color: black;
+}
+
+main{
+    background-color:#2B9954;
+    border: solid 0.5re,;
+}
+
+
+
+
+.card{
+    margin: 2rem;
+    max-width: 300px;
+    padding: 2rem;
+    box-shadow: 0 10px 30px -10px black;
+    background-color: white;
+    margin: 2rem;
+    
+}
+
+.card-clientes{
+    margin: 2rem;
+  
+    padding: 2rem;
+    box-shadow: 0 10px 30px -10px black;
+    background-color: white;
+    width: 40rem;
+    max-width: 50rem;
+    
+}
+.card_image{
+    width: 15rem;
+}
+
+.flex-container{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+
+.redes{
+    color: black;
+    font-size: 1.54rem;
+}
+.fa-brands{
+    font-size: 7rem;
+    color: white;
+    margin: 1rem;
+}
+.footer-list{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.texto-presupuesto{
+    font-size: 1rem;
+    color: black;
+    text-align: center;
+}
+.boton{
+    margin: 1rem;
+    width: 10rem;
+   
+}
+
